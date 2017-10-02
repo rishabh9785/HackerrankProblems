@@ -1,10 +1,10 @@
 import java.util.*;
 public class Append_try {
 public static void main(String[] args) {
-    Scanner in = new Scanner(System.in);
-    String s = in.next();
-    String t = in.next();
-    int k = in.nextInt();
+    Scanner sc = new Scanner(System.in);
+    String s = sc.next();
+    String t = sc.next();
+    int k = sc.nextInt();
     int temp=k;
    int sl=s.length();
    int tl=t.length();
