@@ -1,5 +1,5 @@
 package algorithms;
-import java.util.Scanner;
+import java.util.*;
 public class InsertionSort1 {
 
 	public static void main(String[] args) {
